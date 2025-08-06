@@ -5,11 +5,11 @@ const anos = [
   {nombre:"Año 2", semestres:["ICS001","DEW0","FIS119","HRW2","ACA261","MAT023",
                               "ICS002","FIS129","HRW3","ACA262","MAT032","IAC003"]},
   {nombre:"Año 3", semestres:["IAC005","IAC004","IAC006","ICS010","ICS009","ACA263",
-                              "IAC008","IAC007","ACA264","ICS015","IAC009","ICS013"]},
+                             "IAC007","ACA264","ICS015", "IAC008","IAC009","ICS013"]},
   {nombre:"Año 4", semestres:["IAC013","IAC014","IAC012","ACA265","IAC011","IAC010",
                               "IAC017","ACA266","IAC015","IAC018","IAC016","IAC019"]},
   {nombre:"Año 5", semestres:["IAC023","IAC021","IAC022","IAC024","IAC020","IAC025",
-                              "IAC027","IAC028","IAC029","IAC030","IAC026","IAC031"]},
+                              "IAC028","IAC027","IAC029","IAC030","IAC026","IAC031"]},
 ];
 
 // Definición de ramos y requisitos
